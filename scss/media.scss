@@ -88,7 +88,6 @@
   .container-2 {
     .line {
       width: $width-page-mobile;
-
       flex-flow: column;
       flex-direction: column-reverse;
 
@@ -165,9 +164,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
     gap: 24px;
-
     background-size: cover;
     background-position: center;
 
@@ -204,12 +201,9 @@
     display: flex;
     width: $width-page;
     flex-direction: column;
-
     align-items: center;
     gap: 20px;
-
     align-items: center;
-
     padding: 50px 100px 50px 50px;
 
     .blue-f {
